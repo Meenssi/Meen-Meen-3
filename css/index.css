@@ -29,7 +29,7 @@ th{
 }
 /* (2) Class Selector */
 .p-Aboutme{
-    font-weight: normal; 
+    font-weight: bolder; 
     text-align: justify;
 }
 .p-Name{
